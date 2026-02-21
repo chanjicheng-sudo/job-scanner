@@ -1,0 +1,228 @@
+# Companies where no ATS API was auto-detected.
+# You can manually add these to companies.json with their careers page URL.
+
+10x Banking
+AMV BBDO
+ASOS
+Abnormal AI
+Above & Beyond
+Accenture Song
+Accenture Song (UK)
+Acxiom
+AdRoll
+AdRoll / NextRoll
+Adzuna
+Allpress Espresso
+Amazon
+Apple
+Aspectus (PR)
+Associated British Foods
+Azimo
+BBH (Bartle Bogle Hegarty)
+BBH London
+BMB
+Babel PR
+Bacardi
+Badoo
+Banking Circle
+Beavertown Brewery
+BenevolentAI
+Billion Dollar Boy
+BlackLine
+Booking.com
+Brands2Life
+British American Tobacco
+Brown-Forman
+Burson
+Busuu
+Buttermilk
+Camden Town Brewery
+Camron PR
+Canva
+Captify
+Chainalysis
+Cheil Europe
+Chivas Brothers (Pernod Ricard)
+Cint
+Coconut
+Cognizant (Netcentric)
+Colart
+Copper Technologies
+Crezco
+Criteo
+CrowdStrike
+Curve
+Deep Render
+Deloitte Digital
+Dentsu
+Dentsu (Global)
+Dentsu London
+Dentsu Transition
+Depop
+Diageo
+Digital Voices
+Digitas
+Digitas London
+DocuSign
+Dreem Distillery
+Edelman
+Epsilon
+Equals Group
+Estée Lauder
+Expedia
+FCB Inferno
+FTI Consulting
+FaceIT
+Fevertree
+Finastra
+FintechOS
+Flywheel (Omnicom)
+Flywire
+Forward3D / Assembly
+Gainsight
+Getir
+Google
+Gousto
+Gripped
+GroupM
+Habito
+Havas
+Havas London
+Havas Media
+Headland Consultancy
+Heap
+HiBob
+Hill & Knowlton
+Hope&Glory
+Hope&Glory PR
+Huge
+Imagination
+Influencer
+Innocent Drinks
+Interpublic Group
+Interpublic Limited
+Jaja Finance
+Jones Knowles Ritchie (JKR)
+Kairos Media
+Kantar
+Klarna
+L'Oréal
+Leo Burnett
+Leo Burnett London
+Liganova Mash!
+LiveRamp
+M&C Saatchi
+M&C Saatchi Group
+MRM Worldwide
+MSL Group (Publicis)
+Mambu
+McCann
+McCann London
+MediaMonks (now Monks)
+Mention Me
+Merkle
+Meta / Facebook
+Minor Figures
+Miro
+Modulr
+Momentum Worldwide
+Monolith AI
+Morphe Cosmetics
+Mother London
+NALA
+Nando's
+Netflix
+Neverland
+NewGen Talent
+Nuvei
+Omnicom
+Omnicom Europe
+Omorovicza
+Onfido
+Outbrain
+Pai Skincare
+Palo Alto Networks
+PayPal
+Paymentology
+Paymentsense / Dojo
+Paysafe
+Pearlfisher
+Pearson
+Pentagram
+Perkbox
+Pernod Ricard
+Personio
+PhotoBox
+PingPong Payments
+Pret a Manger
+Previse
+Prodigious
+Prodigy Finance
+Publicis Groupe
+Publicis Groupe (UK)
+Publicis Healthcare
+Publicis Sapient
+Quell
+RPM
+Remitly
+Revlon
+Revolut
+Reward Gateway
+Salesforce
+Satago
+Scalable Capital
+Seedrs
+Seedtag
+Seismic
+Shiseido
+Shopify
+Shutterstock
+Skrill
+Snap Inc
+Socially Powerful
+Soldo
+Sonovate
+Spark Foundry / Blue 449
+Sprinklr
+Starcom London
+Starcom Worldwide
+Starling Bank
+Streetbees
+Superunion
+Tate & Lyle
+Tembo Money
+Temenos
+Tessian
+The Cheeky Panda
+The Kite Factory
+The Ordinary (DECIEM)
+The Romans
+TikTok / ByteDance
+Tin Man Communications
+Tony's Chocolonely
+Toqio
+Total Media
+TradingView
+TravelPerk
+Trust Payments
+Tulchan Communications
+Uber
+Uncommon Creative Studio
+VML
+Vanguard
+Vinted
+Vitesse PSP
+We Are Social
+Western Union
+Wieden & Kennedy London
+Wieden+Kennedy
+Wise
+Wonderhood Studios
+Workday
+Worldpay
+Yapily
+Yoti
+Zendesk
+Zoopla
+eToro
+iwoca

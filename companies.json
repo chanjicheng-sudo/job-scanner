@@ -1,80 +1,1145 @@
 {
   "_readme": "type: greenhouse|lever|ashby|workable|careers_page. For API-based types, set 'slug'. For careers_page, set 'url'. Edit freely to add/remove companies.",
   "companies": [
-    {"name": "Beauty Pie", "type": "greenhouse", "slug": "beautypie"},
-    {"name": "Huel", "type": "greenhouse", "slug": "huel"},
-    {"name": "Wild", "type": "greenhouse", "slug": "wildcosmetics"},
-    {"name": "Elemis", "type": "greenhouse", "slug": "elemis"},
-    {"name": "ZOE", "type": "greenhouse", "slug": "zoe"},
-    {"name": "Numan", "type": "greenhouse", "slug": "numan"},
-    {"name": "Thriva", "type": "greenhouse", "slug": "thriva"},
-    {"name": "Elvie", "type": "greenhouse", "slug": "elvie"},
-    {"name": "Butternut Box", "type": "greenhouse", "slug": "butternutbox"},
-    {"name": "Bloom & Wild", "type": "greenhouse", "slug": "bloomorandwild"},
-    {"name": "Pasta Evangelists", "type": "greenhouse", "slug": "pastaevangelists"},
-    {"name": "Freddie's Flowers", "type": "careers_page", "url": "https://freddiesflowers.com/pages/careers"},
-    {"name": "Abel & Cole", "type": "careers_page", "url": "https://www.abelandcole.co.uk/careers"},
-    {"name": "Moonpig", "type": "greenhouse", "slug": "moonpiggroup"},
-    {"name": "THG", "type": "workable", "slug": "thg1"},
-    {"name": "Zilch", "type": "greenhouse", "slug": "zilch"},
-    {"name": "Chip", "type": "greenhouse", "slug": "chipfinancial"},
-    {"name": "Plum", "type": "careers_page", "url": "https://withplum.com/careers"},
-    {"name": "TotallyMoney", "type": "greenhouse", "slug": "totallymoney"},
-    {"name": "Marshmallow", "type": "greenhouse", "slug": "marshmallow"},
-    {"name": "ManyPets", "type": "greenhouse", "slug": "manypets"},
-    {"name": "Cleo", "type": "greenhouse", "slug": "cleoai"},
-    {"name": "Freetrade", "type": "greenhouse", "slug": "freetrade"},
-    {"name": "Moneybox", "type": "greenhouse", "slug": "moneyboxapp"},
-    {"name": "InvestEngine", "type": "careers_page", "url": "https://investengine.com/careers/"},
-    {"name": "Motorway", "type": "greenhouse", "slug": "motorway"},
-    {"name": "Vestiaire Collective", "type": "greenhouse", "slug": "vestiairecollective"},
-    {"name": "Carwow", "type": "greenhouse", "slug": "carwow"},
-    {"name": "Trainline", "type": "greenhouse", "slug": "trainline"},
-    {"name": "Secret Escapes", "type": "greenhouse", "slug": "secretescapes"},
-    {"name": "Brainlabs", "type": "greenhouse", "slug": "brainlabsdigital"},
-    {"name": "Jellyfish", "type": "greenhouse", "slug": "jellyfish"},
-    {"name": "Croud", "type": "lever", "slug": "croud"},
-    {"name": "Impression", "type": "careers_page", "url": "https://www.impression.co.uk/careers/"},
-    {"name": "Incubeta", "type": "greenhouse", "slug": "incubeta"},
-    {"name": "Zopa", "type": "greenhouse", "slug": "zopa"},
-    {"name": "Trading 212", "type": "lever", "slug": "trading212"},
-    {"name": "Clearpay", "type": "greenhouse", "slug": "clearpay"},
-    {"name": "Uswitch", "type": "careers_page", "url": "https://www.uswitch.com/about-us/careers/"},
-    {"name": "Second Nature", "type": "greenhouse", "slug": "secondnature"},
-    {"name": "Oviva", "type": "greenhouse", "slug": "ovaboriva"},
-    {"name": "By Miles", "type": "careers_page", "url": "https://www.bymiles.co.uk/careers/"},
-    {"name": "YuLife", "type": "greenhouse", "slug": "yulife"},
-    {"name": "Cuvva", "type": "lever", "slug": "cuvva"},
-    {"name": "Blockchain.com", "type": "greenhouse", "slug": "blockchain"},
-    {"name": "Elliptic", "type": "lever", "slug": "elliptic"},
-    {"name": "Cognism", "type": "greenhouse", "slug": "cognism"},
-    {"name": "Wagestream", "type": "greenhouse", "slug": "wagestream"},
-    {"name": "WorldRemit", "type": "greenhouse", "slug": "worldremit"},
-    {"name": "Luno", "type": "lever", "slug": "luno"},
-    {"name": "Copper.co", "type": "lever", "slug": "copper-co"},
-    {"name": "Livescore Group", "type": "careers_page", "url": "https://www.livescoregroup.com/careers/"},
-    {"name": "Kindred Group", "type": "careers_page", "url": "https://www.kindredgroup.com/careers/"},
-    {"name": "Tombola", "type": "careers_page", "url": "https://www.tombola.co.uk/careers"},
-    {"name": "Gamesys", "type": "careers_page", "url": "https://www.gamesysgroup.com/careers/"},
-    {"name": "Emma", "type": "greenhouse", "slug": "emma-app"},
-    {"name": "Tymit", "type": "careers_page", "url": "https://www.tymit.com/careers"},
-    {"name": "Penfold", "type": "lever", "slug": "getpenfold"},
-    {"name": "Monese", "type": "greenhouse", "slug": "monese"},
-    {"name": "Pockit", "type": "careers_page", "url": "https://www.pockit.com/careers"},
-    {"name": "Lendable", "type": "greenhouse", "slug": "lendable"},
-    {"name": "Koyo", "type": "careers_page", "url": "https://www.koyoloans.com/careers"},
-    {"name": "Uncapped", "type": "lever", "slug": "weareuncapped"},
-    {"name": "Wayflyer", "type": "greenhouse", "slug": "wayflyer"},
-    {"name": "CEX.IO", "type": "greenhouse", "slug": "caborexio"},
-    {"name": "Wirex", "type": "lever", "slug": "wirexapp"},
-    {"name": "Bitpanda", "type": "greenhouse", "slug": "bitpanda"},
-    {"name": "Mode Global", "type": "careers_page", "url": "https://www.modebanking.com/careers"},
-    {"name": "Hokodo", "type": "lever", "slug": "hokodo"},
-    {"name": "Liberis", "type": "greenhouse", "slug": "liberis"},
-    {"name": "Kriya Finance", "type": "lever", "slug": "kriya"},
-    {"name": "CapitalRise", "type": "careers_page", "url": "https://www.capitalrise.com/careers"},
-    {"name": "Dashly", "type": "careers_page", "url": "https://www.dashly.com/careers"},
-    {"name": "StepLadder", "type": "careers_page", "url": "https://www.stepladder.co/careers"},
-    {"name": "Tally Money", "type": "careers_page", "url": "https://www.tallymoney.com/careers"}
+    {
+      "name": "Beauty Pie",
+      "type": "greenhouse",
+      "slug": "beautypie"
+    },
+    {
+      "name": "Huel",
+      "type": "greenhouse",
+      "slug": "huel"
+    },
+    {
+      "name": "Wild",
+      "type": "greenhouse",
+      "slug": "wildcosmetics"
+    },
+    {
+      "name": "Elemis",
+      "type": "greenhouse",
+      "slug": "elemis"
+    },
+    {
+      "name": "ZOE",
+      "type": "greenhouse",
+      "slug": "zoe"
+    },
+    {
+      "name": "Numan",
+      "type": "greenhouse",
+      "slug": "numan"
+    },
+    {
+      "name": "Thriva",
+      "type": "greenhouse",
+      "slug": "thriva"
+    },
+    {
+      "name": "Elvie",
+      "type": "greenhouse",
+      "slug": "elvie"
+    },
+    {
+      "name": "Butternut Box",
+      "type": "greenhouse",
+      "slug": "butternutbox"
+    },
+    {
+      "name": "Bloom & Wild",
+      "type": "greenhouse",
+      "slug": "bloomorandwild"
+    },
+    {
+      "name": "Pasta Evangelists",
+      "type": "greenhouse",
+      "slug": "pastaevangelists"
+    },
+    {
+      "name": "Freddie's Flowers",
+      "type": "careers_page",
+      "url": "https://freddiesflowers.com/pages/careers"
+    },
+    {
+      "name": "Abel & Cole",
+      "type": "careers_page",
+      "url": "https://www.abelandcole.co.uk/careers"
+    },
+    {
+      "name": "Moonpig",
+      "type": "greenhouse",
+      "slug": "moonpiggroup"
+    },
+    {
+      "name": "THG",
+      "type": "workable",
+      "slug": "thg1"
+    },
+    {
+      "name": "Zilch",
+      "type": "greenhouse",
+      "slug": "zilch"
+    },
+    {
+      "name": "Chip",
+      "type": "greenhouse",
+      "slug": "chipfinancial"
+    },
+    {
+      "name": "Plum",
+      "type": "careers_page",
+      "url": "https://withplum.com/careers"
+    },
+    {
+      "name": "TotallyMoney",
+      "type": "greenhouse",
+      "slug": "totallymoney"
+    },
+    {
+      "name": "Marshmallow",
+      "type": "greenhouse",
+      "slug": "marshmallow"
+    },
+    {
+      "name": "ManyPets",
+      "type": "greenhouse",
+      "slug": "manypets"
+    },
+    {
+      "name": "Cleo",
+      "type": "greenhouse",
+      "slug": "cleoai"
+    },
+    {
+      "name": "Freetrade",
+      "type": "greenhouse",
+      "slug": "freetrade"
+    },
+    {
+      "name": "Moneybox",
+      "type": "greenhouse",
+      "slug": "moneyboxapp"
+    },
+    {
+      "name": "InvestEngine",
+      "type": "careers_page",
+      "url": "https://investengine.com/careers/"
+    },
+    {
+      "name": "Motorway",
+      "type": "greenhouse",
+      "slug": "motorway"
+    },
+    {
+      "name": "Vestiaire Collective",
+      "type": "greenhouse",
+      "slug": "vestiairecollective"
+    },
+    {
+      "name": "Carwow",
+      "type": "greenhouse",
+      "slug": "carwow"
+    },
+    {
+      "name": "Trainline",
+      "type": "greenhouse",
+      "slug": "trainline"
+    },
+    {
+      "name": "Secret Escapes",
+      "type": "greenhouse",
+      "slug": "secretescapes"
+    },
+    {
+      "name": "Brainlabs",
+      "type": "greenhouse",
+      "slug": "brainlabsdigital"
+    },
+    {
+      "name": "Jellyfish",
+      "type": "greenhouse",
+      "slug": "jellyfish"
+    },
+    {
+      "name": "Croud",
+      "type": "lever",
+      "slug": "croud"
+    },
+    {
+      "name": "Impression",
+      "type": "careers_page",
+      "url": "https://www.impression.co.uk/careers/"
+    },
+    {
+      "name": "Incubeta",
+      "type": "greenhouse",
+      "slug": "incubeta"
+    },
+    {
+      "name": "Zopa",
+      "type": "greenhouse",
+      "slug": "zopa"
+    },
+    {
+      "name": "Trading 212",
+      "type": "lever",
+      "slug": "trading212"
+    },
+    {
+      "name": "Clearpay",
+      "type": "greenhouse",
+      "slug": "clearpay"
+    },
+    {
+      "name": "Uswitch",
+      "type": "careers_page",
+      "url": "https://www.uswitch.com/about-us/careers/"
+    },
+    {
+      "name": "Second Nature",
+      "type": "greenhouse",
+      "slug": "secondnature"
+    },
+    {
+      "name": "Oviva",
+      "type": "greenhouse",
+      "slug": "ovaboriva"
+    },
+    {
+      "name": "By Miles",
+      "type": "careers_page",
+      "url": "https://www.bymiles.co.uk/careers/"
+    },
+    {
+      "name": "YuLife",
+      "type": "greenhouse",
+      "slug": "yulife"
+    },
+    {
+      "name": "Cuvva",
+      "type": "lever",
+      "slug": "cuvva"
+    },
+    {
+      "name": "Blockchain.com",
+      "type": "greenhouse",
+      "slug": "blockchain"
+    },
+    {
+      "name": "Elliptic",
+      "type": "lever",
+      "slug": "elliptic"
+    },
+    {
+      "name": "Cognism",
+      "type": "greenhouse",
+      "slug": "cognism"
+    },
+    {
+      "name": "Wagestream",
+      "type": "greenhouse",
+      "slug": "wagestream"
+    },
+    {
+      "name": "WorldRemit",
+      "type": "greenhouse",
+      "slug": "worldremit"
+    },
+    {
+      "name": "Luno",
+      "type": "lever",
+      "slug": "luno"
+    },
+    {
+      "name": "Copper.co",
+      "type": "lever",
+      "slug": "copper-co"
+    },
+    {
+      "name": "Livescore Group",
+      "type": "careers_page",
+      "url": "https://www.livescoregroup.com/careers/"
+    },
+    {
+      "name": "Kindred Group",
+      "type": "careers_page",
+      "url": "https://www.kindredgroup.com/careers/"
+    },
+    {
+      "name": "Tombola",
+      "type": "careers_page",
+      "url": "https://www.tombola.co.uk/careers"
+    },
+    {
+      "name": "Gamesys",
+      "type": "careers_page",
+      "url": "https://www.gamesysgroup.com/careers/"
+    },
+    {
+      "name": "Emma",
+      "type": "greenhouse",
+      "slug": "emma-app"
+    },
+    {
+      "name": "Tymit",
+      "type": "careers_page",
+      "url": "https://www.tymit.com/careers"
+    },
+    {
+      "name": "Penfold",
+      "type": "lever",
+      "slug": "getpenfold"
+    },
+    {
+      "name": "Monese",
+      "type": "greenhouse",
+      "slug": "monese"
+    },
+    {
+      "name": "Pockit",
+      "type": "careers_page",
+      "url": "https://www.pockit.com/careers"
+    },
+    {
+      "name": "Lendable",
+      "type": "greenhouse",
+      "slug": "lendable"
+    },
+    {
+      "name": "Koyo",
+      "type": "careers_page",
+      "url": "https://www.koyoloans.com/careers"
+    },
+    {
+      "name": "Uncapped",
+      "type": "lever",
+      "slug": "weareuncapped"
+    },
+    {
+      "name": "Wayflyer",
+      "type": "greenhouse",
+      "slug": "wayflyer"
+    },
+    {
+      "name": "CEX.IO",
+      "type": "greenhouse",
+      "slug": "caborexio"
+    },
+    {
+      "name": "Wirex",
+      "type": "lever",
+      "slug": "wirexapp"
+    },
+    {
+      "name": "Bitpanda",
+      "type": "greenhouse",
+      "slug": "bitpanda"
+    },
+    {
+      "name": "Mode Global",
+      "type": "careers_page",
+      "url": "https://www.modebanking.com/careers"
+    },
+    {
+      "name": "Hokodo",
+      "type": "lever",
+      "slug": "hokodo"
+    },
+    {
+      "name": "Liberis",
+      "type": "greenhouse",
+      "slug": "liberis"
+    },
+    {
+      "name": "Kriya Finance",
+      "type": "lever",
+      "slug": "kriya"
+    },
+    {
+      "name": "CapitalRise",
+      "type": "careers_page",
+      "url": "https://www.capitalrise.com/careers"
+    },
+    {
+      "name": "Dashly",
+      "type": "careers_page",
+      "url": "https://www.dashly.com/careers"
+    },
+    {
+      "name": "StepLadder",
+      "type": "careers_page",
+      "url": "https://www.stepladder.co/careers"
+    },
+    {
+      "name": "Tally Money",
+      "type": "careers_page",
+      "url": "https://www.tallymoney.com/careers"
+    },
+    {
+      "name": "Adyen",
+      "type": "greenhouse",
+      "slug": "adyen"
+    },
+    {
+      "name": "Airwallex",
+      "type": "ashby",
+      "slug": "airwallex"
+    },
+    {
+      "name": "Allica Bank",
+      "type": "ashby",
+      "slug": "allica-bank"
+    },
+    {
+      "name": "Behavox",
+      "type": "greenhouse",
+      "slug": "behavox"
+    },
+    {
+      "name": "Binance",
+      "type": "lever",
+      "slug": "binance"
+    },
+    {
+      "name": "Boku",
+      "type": "greenhouse",
+      "slug": "boku"
+    },
+    {
+      "name": "BVNK",
+      "type": "greenhouse",
+      "slug": "bvnk"
+    },
+    {
+      "name": "Capi Money",
+      "type": "ashby",
+      "slug": "capimoney"
+    },
+    {
+      "name": "Capital on Tap",
+      "type": "greenhouse",
+      "slug": "capitalontap"
+    },
+    {
+      "name": "Capitolis",
+      "type": "greenhouse",
+      "slug": "capitolis"
+    },
+    {
+      "name": "Carta",
+      "type": "greenhouse",
+      "slug": "carta"
+    },
+    {
+      "name": "CB Payments (Coinbase)",
+      "type": "greenhouse",
+      "slug": "coinbase"
+    },
+    {
+      "name": "Checkout.com",
+      "type": "ashby",
+      "slug": "checkout.com"
+    },
+    {
+      "name": "ClearBank",
+      "type": "ashby",
+      "slug": "clearbank"
+    },
+    {
+      "name": "Crypto Facilities (Kraken)",
+      "type": "lever",
+      "slug": "kraken"
+    },
+    {
+      "name": "dLocal",
+      "type": "lever",
+      "slug": "dlocal"
+    },
+    {
+      "name": "Ebury",
+      "type": "greenhouse",
+      "slug": "ebury"
+    },
+    {
+      "name": "Featurespace",
+      "type": "greenhouse",
+      "slug": "featurespace"
+    },
+    {
+      "name": "Fireblocks",
+      "type": "greenhouse",
+      "slug": "fireblocks"
+    },
+    {
+      "name": "Flagstone",
+      "type": "greenhouse",
+      "slug": "flagstone"
+    },
+    {
+      "name": "FloQast",
+      "type": "lever",
+      "slug": "floqast"
+    },
+    {
+      "name": "Form3",
+      "type": "greenhouse",
+      "slug": "form3"
+    },
+    {
+      "name": "Funding Circle",
+      "type": "ashby",
+      "slug": "fundingcircle"
+    },
+    {
+      "name": "Gemini",
+      "type": "greenhouse",
+      "slug": "gemini"
+    },
+    {
+      "name": "GoCardless",
+      "type": "greenhouse",
+      "slug": "gocardless"
+    },
+    {
+      "name": "Griffin",
+      "type": "ashby",
+      "slug": "griffin"
+    },
+    {
+      "name": "Marqeta",
+      "type": "greenhouse",
+      "slug": "marqeta"
+    },
+    {
+      "name": "Monzo",
+      "type": "greenhouse",
+      "slug": "monzo"
+    },
+    {
+      "name": "OakNorth",
+      "type": "ashby",
+      "slug": "oaknorth"
+    },
+    {
+      "name": "OKX",
+      "type": "greenhouse",
+      "slug": "okx"
+    },
+    {
+      "name": "Paddle",
+      "type": "ashby",
+      "slug": "paddle"
+    },
+    {
+      "name": "Paymentsense (Dojo)",
+      "type": "greenhouse",
+      "slug": "dojo"
+    },
+    {
+      "name": "Payoneer",
+      "type": "greenhouse",
+      "slug": "payoneer"
+    },
+    {
+      "name": "Plaid",
+      "type": "lever",
+      "slug": "plaid"
+    },
+    {
+      "name": "Quantexa",
+      "type": "ashby",
+      "slug": "quantexa"
+    },
+    {
+      "name": "Recognise Bank",
+      "type": "lever",
+      "slug": "recognisebank"
+    },
+    {
+      "name": "Salary Finance",
+      "type": "greenhouse",
+      "slug": "salaryfinance"
+    },
+    {
+      "name": "Shift4 Payments",
+      "type": "greenhouse",
+      "slug": "shift4"
+    },
+    {
+      "name": "Stripe",
+      "type": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "name": "SumUp",
+      "type": "greenhouse",
+      "slug": "sumup"
+    },
+    {
+      "name": "Super Payments",
+      "type": "lever",
+      "slug": "super"
+    },
+    {
+      "name": "Teya",
+      "type": "ashby",
+      "slug": "teya"
+    },
+    {
+      "name": "Thought Machine",
+      "type": "ashby",
+      "slug": "thought-machine"
+    },
+    {
+      "name": "Tide",
+      "type": "greenhouse",
+      "slug": "tide"
+    },
+    {
+      "name": "Tractable",
+      "type": "ashby",
+      "slug": "tractable"
+    },
+    {
+      "name": "TransferGo",
+      "type": "greenhouse",
+      "slug": "transfergo"
+    },
+    {
+      "name": "TrueLayer",
+      "type": "greenhouse",
+      "slug": "truelayer"
+    },
+    {
+      "name": "Trumid",
+      "type": "greenhouse",
+      "slug": "trumid"
+    },
+    {
+      "name": "Zuora",
+      "type": "greenhouse",
+      "slug": "zuora"
+    },
+    {
+      "name": "AKQA",
+      "type": "greenhouse",
+      "slug": "akqa"
+    },
+    {
+      "name": "Amplify",
+      "type": "ashby",
+      "slug": "amplify"
+    },
+    {
+      "name": "Anomaly",
+      "type": "lever",
+      "slug": "anomaly"
+    },
+    {
+      "name": "Assembly Media",
+      "type": "ashby",
+      "slug": "assembly"
+    },
+    {
+      "name": "Brave",
+      "type": "greenhouse",
+      "slug": "brave"
+    },
+    {
+      "name": "Credera",
+      "type": "greenhouse",
+      "slug": "credera"
+    },
+    {
+      "name": "Dept",
+      "type": "greenhouse",
+      "slug": "dept"
+    },
+    {
+      "name": "Design Bridge",
+      "type": "greenhouse",
+      "slug": "designbridge"
+    },
+    {
+      "name": "Earnest",
+      "type": "greenhouse",
+      "slug": "earnest"
+    },
+    {
+      "name": "Engine Creative",
+      "type": "greenhouse",
+      "slug": "engine"
+    },
+    {
+      "name": "FGS Global",
+      "type": "greenhouse",
+      "slug": "fgsglobal"
+    },
+    {
+      "name": "Finn Partners",
+      "type": "lever",
+      "slug": "finn"
+    },
+    {
+      "name": "Found",
+      "type": "greenhouse",
+      "slug": "found"
+    },
+    {
+      "name": "Grey London",
+      "type": "greenhouse",
+      "slug": "greylondon"
+    },
+    {
+      "name": "Hanover Communications",
+      "type": "greenhouse",
+      "slug": "hanover"
+    },
+    {
+      "name": "Hogarth Worldwide",
+      "type": "greenhouse",
+      "slug": "hogarthworldwide"
+    },
+    {
+      "name": "Iris Nation Worldwide",
+      "type": "greenhouse",
+      "slug": "iris"
+    },
+    {
+      "name": "Jack Morton Worldwide",
+      "type": "greenhouse",
+      "slug": "jackmorton"
+    },
+    {
+      "name": "MiQ Digital",
+      "type": "greenhouse",
+      "slug": "miqdigital"
+    },
+    {
+      "name": "MullenLowe Group",
+      "type": "greenhouse",
+      "slug": "mullenlowe"
+    },
+    {
+      "name": "Ogilvy",
+      "type": "greenhouse",
+      "slug": "ogilvy"
+    },
+    {
+      "name": "Oliver Agency",
+      "type": "greenhouse",
+      "slug": "oliveragency"
+    },
+    {
+      "name": "Prosek Partners",
+      "type": "greenhouse",
+      "slug": "prosek"
+    },
+    {
+      "name": "R/GA",
+      "type": "greenhouse",
+      "slug": "rga"
+    },
+    {
+      "name": "Teneo",
+      "type": "greenhouse",
+      "slug": "teneo"
+    },
+    {
+      "name": "VaynerMedia",
+      "type": "greenhouse",
+      "slug": "vaynermedia"
+    },
+    {
+      "name": "WPP",
+      "type": "greenhouse",
+      "slug": "wpp"
+    },
+    {
+      "name": "Wunderman Thompson",
+      "type": "greenhouse",
+      "slug": "wundermanthompson"
+    },
+    {
+      "name": "Amplitude",
+      "type": "greenhouse",
+      "slug": "amplitude"
+    },
+    {
+      "name": "Anthropic",
+      "type": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "name": "AppsFlyer",
+      "type": "greenhouse",
+      "slug": "appsflyer"
+    },
+    {
+      "name": "Asana",
+      "type": "greenhouse",
+      "slug": "asana"
+    },
+    {
+      "name": "Atlassian",
+      "type": "lever",
+      "slug": "atlassian"
+    },
+    {
+      "name": "Beamery",
+      "type": "ashby",
+      "slug": "beamery"
+    },
+    {
+      "name": "Bolt",
+      "type": "ashby",
+      "slug": "bolt"
+    },
+    {
+      "name": "Braze",
+      "type": "greenhouse",
+      "slug": "braze"
+    },
+    {
+      "name": "Cloudflare",
+      "type": "greenhouse",
+      "slug": "cloudflare"
+    },
+    {
+      "name": "Collibra",
+      "type": "greenhouse",
+      "slug": "collibra"
+    },
+    {
+      "name": "Confluent",
+      "type": "ashby",
+      "slug": "confluent"
+    },
+    {
+      "name": "Contentful",
+      "type": "greenhouse",
+      "slug": "contentful"
+    },
+    {
+      "name": "CreatorIQ",
+      "type": "ashby",
+      "slug": "creatoriq"
+    },
+    {
+      "name": "Culture Amp",
+      "type": "greenhouse",
+      "slug": "cultureamp"
+    },
+    {
+      "name": "Databricks",
+      "type": "greenhouse",
+      "slug": "databricks"
+    },
+    {
+      "name": "Datadog",
+      "type": "greenhouse",
+      "slug": "datadog"
+    },
+    {
+      "name": "Deel",
+      "type": "ashby",
+      "slug": "deel"
+    },
+    {
+      "name": "Deliveroo",
+      "type": "ashby",
+      "slug": "deliveroo"
+    },
+    {
+      "name": "DoubleVerify",
+      "type": "greenhouse",
+      "slug": "doubleverify"
+    },
+    {
+      "name": "ElevenLabs",
+      "type": "ashby",
+      "slug": "elevenlabs"
+    },
+    {
+      "name": "Farfetch",
+      "type": "lever",
+      "slug": "farfetch"
+    },
+    {
+      "name": "Figma",
+      "type": "greenhouse",
+      "slug": "figma"
+    },
+    {
+      "name": "Flo Health",
+      "type": "greenhouse",
+      "slug": "flohealth"
+    },
+    {
+      "name": "Highspot",
+      "type": "lever",
+      "slug": "highspot"
+    },
+    {
+      "name": "Hootsuite",
+      "type": "greenhouse",
+      "slug": "hootsuite"
+    },
+    {
+      "name": "HubSpot",
+      "type": "greenhouse",
+      "slug": "hubspot"
+    },
+    {
+      "name": "Improbable",
+      "type": "ashby",
+      "slug": "improbable"
+    },
+    {
+      "name": "Intercom",
+      "type": "greenhouse",
+      "slug": "intercom"
+    },
+    {
+      "name": "Isomorphic Labs",
+      "type": "greenhouse",
+      "slug": "isomorphiclabs"
+    },
+    {
+      "name": "Iterable",
+      "type": "greenhouse",
+      "slug": "iterable"
+    },
+    {
+      "name": "Liftoff",
+      "type": "greenhouse",
+      "slug": "liftoff"
+    },
+    {
+      "name": "LinkedIn",
+      "type": "greenhouse",
+      "slug": "linkedin"
+    },
+    {
+      "name": "Mintel",
+      "type": "greenhouse",
+      "slug": "mintel"
+    },
+    {
+      "name": "Mistral AI",
+      "type": "lever",
+      "slug": "mistral"
+    },
+    {
+      "name": "Moloco",
+      "type": "greenhouse",
+      "slug": "moloco"
+    },
+    {
+      "name": "Monday.com",
+      "type": "ashby",
+      "slug": "monday.com"
+    },
+    {
+      "name": "MongoDB",
+      "type": "greenhouse",
+      "slug": "mongodb"
+    },
+    {
+      "name": "Multiverse",
+      "type": "ashby",
+      "slug": "multiverse"
+    },
+    {
+      "name": "Netlify",
+      "type": "greenhouse",
+      "slug": "netlify"
+    },
+    {
+      "name": "Netskope",
+      "type": "greenhouse",
+      "slug": "netskope"
+    },
+    {
+      "name": "Nothing",
+      "type": "greenhouse",
+      "slug": "nothing"
+    },
+    {
+      "name": "Octopus Energy",
+      "type": "lever",
+      "slug": "octopus"
+    },
+    {
+      "name": "Ogury",
+      "type": "lever",
+      "slug": "ogury"
+    },
+    {
+      "name": "OpenAI",
+      "type": "ashby",
+      "slug": "openai"
+    },
+    {
+      "name": "Palantir",
+      "type": "lever",
+      "slug": "palantir"
+    },
+    {
+      "name": "Pendo",
+      "type": "greenhouse",
+      "slug": "pendo"
+    },
+    {
+      "name": "Permutive",
+      "type": "ashby",
+      "slug": "permutive"
+    },
+    {
+      "name": "PhysicsX",
+      "type": "greenhouse",
+      "slug": "physicsx"
+    },
+    {
+      "name": "Pinterest",
+      "type": "greenhouse",
+      "slug": "pinterest"
+    },
+    {
+      "name": "PolyAI",
+      "type": "greenhouse",
+      "slug": "polyai"
+    },
+    {
+      "name": "Quantcast",
+      "type": "lever",
+      "slug": "quantcast"
+    },
+    {
+      "name": "Recorded Future",
+      "type": "greenhouse",
+      "slug": "recordedfuture"
+    },
+    {
+      "name": "Remote",
+      "type": "greenhouse",
+      "slug": "remote"
+    },
+    {
+      "name": "Ripple",
+      "type": "greenhouse",
+      "slug": "ripple"
+    },
+    {
+      "name": "SalesLoft",
+      "type": "greenhouse",
+      "slug": "salesloft"
+    },
+    {
+      "name": "Singular",
+      "type": "ashby",
+      "slug": "singular"
+    },
+    {
+      "name": "Snowflake",
+      "type": "ashby",
+      "slug": "snowflake"
+    },
+    {
+      "name": "Snyk",
+      "type": "ashby",
+      "slug": "snyk"
+    },
+    {
+      "name": "Sojern",
+      "type": "greenhouse",
+      "slug": "sojern"
+    },
+    {
+      "name": "Spotify",
+      "type": "lever",
+      "slug": "spotify"
+    },
+    {
+      "name": "Squarespace",
+      "type": "greenhouse",
+      "slug": "squarespace"
+    },
+    {
+      "name": "Stability AI",
+      "type": "greenhouse",
+      "slug": "stabilityai"
+    },
+    {
+      "name": "Synthesia",
+      "type": "ashby",
+      "slug": "synthesia"
+    },
+    {
+      "name": "Taboola",
+      "type": "greenhouse",
+      "slug": "taboola"
+    },
+    {
+      "name": "Too Good To Go",
+      "type": "greenhouse",
+      "slug": "toogoodtogo"
+    },
+    {
+      "name": "Tripadvisor",
+      "type": "greenhouse",
+      "slug": "tripadvisor"
+    },
+    {
+      "name": "Trustpilot",
+      "type": "greenhouse",
+      "slug": "trustpilot"
+    },
+    {
+      "name": "Twilio",
+      "type": "greenhouse",
+      "slug": "twilio"
+    },
+    {
+      "name": "Typeform",
+      "type": "greenhouse",
+      "slug": "typeform"
+    },
+    {
+      "name": "Vercel",
+      "type": "greenhouse",
+      "slug": "vercel"
+    },
+    {
+      "name": "WalkMe",
+      "type": "lever",
+      "slug": "walkme"
+    },
+    {
+      "name": "Wayve",
+      "type": "greenhouse",
+      "slug": "wayve"
+    },
+    {
+      "name": "Zscaler",
+      "type": "greenhouse",
+      "slug": "zscaler"
+    },
+    {
+      "name": "AB InBev",
+      "type": "greenhouse",
+      "slug": "abinbev"
+    },
+    {
+      "name": "Hourglass Cosmetics",
+      "type": "greenhouse",
+      "slug": "hourglasscosmetics"
+    },
+    {
+      "name": "Kao",
+      "type": "greenhouse",
+      "slug": "kao"
+    }
   ]
 }

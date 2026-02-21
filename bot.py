@@ -29,8 +29,8 @@ logger = logging.getLogger(__name__)
 
 # ─── State tracking ──────────────────────────────────────────────────────────
 
-last_scan_time: str | None = None
-last_scan_stats: dict | None = None
+last_scan_time = None
+last_scan_stats = None
 
 
 def load_seen_jobs() -> set[str]:
