@@ -1,0 +1,14 @@
+app = 'job-scanner'
+primary_region = 'lhr'
+
+[build]
+
+[env]
+
+# No HTTP services — this is a worker bot (Telegram polling)
+# Set secrets via: fly secrets set TELEGRAM_BOT_TOKEN=xxx TELEGRAM_CHAT_ID=xxx
+
+[[vm]]
+  memory = '256mb'
+  cpu_kind = 'shared'
+  cpus = 1

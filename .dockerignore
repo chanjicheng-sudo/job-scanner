@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+discover_ats.py
+companies_not_found.txt
+.env
