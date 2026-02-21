@@ -1,14 +1,23 @@
-app = 'job-scanner-chan'
-primary_region = 'lhr'
+# fly.toml app configuration file generated for job-scanner-rlaqka on 2026-02-21T13:10:22Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'job-scanner-rlaqka'
+primary_region = 'ams'
 
 [build]
 
-[env]
-
-# No HTTP services — this is a worker bot (Telegram polling)
-# Set secrets via: fly secrets set TELEGRAM_BOT_TOKEN=xxx TELEGRAM_CHAT_ID=xxx
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
 
 [[vm]]
-  memory = '256mb'
+  memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
+  memory_mb = 256
