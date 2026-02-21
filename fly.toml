@@ -1,4 +1,4 @@
-app = 'job-scanner'
+app = 'job-scanner-chan'
 primary_region = 'lhr'
 
 [build]
